@@ -10,7 +10,7 @@ Ce projet est une application de gestion d'hôtel développée en Python.
 
 ## Fichiers inclus
 
-- `create&insertion.sql` : Script SQL pour créer et insérer des données
+- `BaseSQLLite.sql et scriptMySQL.sql` : Script SQL pour créer et insérer des données
 - `db_functions.py` : Fonctions Python pour interagir avec la base de données
 - `hotel.db` : Fichier de la base de données SQLite
 - `hotelBD.py` : Interface principale de l'application
